@@ -12,7 +12,7 @@
     "shadow": "#16161C",
     "border": "#1A1C23",
     "background": "#1C1E26",
-    "backgroundAlt": "#232530",
+    "backgroundAlt": "#21222B",
     "accent": "#2E303E",
     "accentAlt": "#6C6F93",
     "secondaryAccent": "#E9436D",
@@ -23,7 +23,8 @@
     "warning": "#27D797",
     "modified": "#21BFC2",
     "lightText": "#D5D8DA",
-    "darkText": "#06060C"
+    "darkText": "#06060C",
+    "selection": "#25B0BC"
   },
   "ansi": {
     "normal": {
