@@ -6,6 +6,8 @@
 
 ---
 
+Fork of the great HORIZON VSCode Theme.
+
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
